@@ -134,7 +134,7 @@ Already using tools like journaling apps or meditation, and interested in AI-enh
 Neurodivergent Users (e.g. ADHD, Autism):
 Who benefit from mood regulation via sensory inputs like music.
 
-* Needs to Consider:
+Needs to Consider:
 Privacy & Data Consent: Users must feel in control of their facial, audio, and text data.
 
 Emotional Sensitivity: AI must avoid being intrusive or misinterpreting nuanced emotions.
@@ -142,9 +142,8 @@ Emotional Sensitivity: AI must avoid being intrusive or misinterpreting nuanced 
 Customization: Everyone has a different relationship with music and emotions. Flexibility is key.
 
 Accessibility: Should support users with disabilities (visual, hearing, cognitive).
+https://www.bing.com/images/search?view=detailV2
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
