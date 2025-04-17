@@ -142,14 +142,6 @@ Emotional Sensitivity: AI must avoid being intrusive or misinterpreting nuanced 
 Customization: Everyone has a different relationship with music and emotions. Flexibility is key.
 
 Accessibility: Should support users with disabilities (visual, hearing, cognitive).
-(https://www.bing.com/images/search?view=detailV2)
-
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-(https://upload.wikimedia.org/wikipedia/commons/5/5e/music.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 1. Facial Emotion Detection with DeepFace (Python)
 python
@@ -161,7 +153,7 @@ from deepface import DeepFace
 analysis = DeepFace.analyze(img_path="user_photo.jpg", actions=['emotion'])
 
 print("Detected emotion:", analysis[0]['dominant_emotion'])
-🔹 2. Voice Emotion Recognition (Python + Librosa)
+ 2. Voice Emotion Recognition (Python + Librosa)
 python
 Copy
 Edit
